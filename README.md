@@ -30,7 +30,6 @@
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"  />
-<br>
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"  />
