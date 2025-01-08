@@ -19,6 +19,25 @@
 ### Herramientas y Lenguajes de Programacion: 
 
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CLion-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
+<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
 <br>
 <br>
 <br>
