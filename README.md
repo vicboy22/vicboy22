@@ -6,8 +6,8 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ###Soy desarollador de aplicaciones multiplataforma
-- 🔭 Actual estoy interesado en el desarollo de videojuegos, aplicaciones y desarollo de IA :grin:
-- 🌱 Actualmente estoy aprendiendo LUA y Python.
+- 🔭 Actualmente estoy interesado en el desarollo de videojuegos, aplicaciones y desarollo de IA :grin:
+- 🌱 Estoy aprendiendo LUA y Python.
 - 👯 Estoy buscando desarollar con otros colaboradores :wink:
 - 🥅 Contribuir a proyectos de codigo abierto
 - 💬 Preguntame cualquier cosas estare encantado de ayudarte :smile:
@@ -30,6 +30,7 @@
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"  />
+<br>
 <br>
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg"  />
 <img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  />
