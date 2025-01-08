@@ -1,19 +1,18 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Subhadeep Chakraborty</h1>
-<h3 align="center">I'm an Aspiring Developer and Student from India</h3>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Victor Gonzalo</h1>
+<h3 align="center">Soy desarollador de apliciones multiplataforma</h3>
 
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+###Soy desarollador de aplicaciones multiplataforma
+- 🔭 Actual estoy interesado en el desarollo de videojuegos, aplicaciones y desarollo de IA :grin:
+- 🌱 Actualmente estoy aprendiendo LUA y Python.
+- 👯 Estoy buscando desarollar con otros colaboradores :wink:
+- 🥅 Contribuir a proyectos de codigo abierto
+- 💬 Preguntame cualquier cosas estare encantado de ayudarte :smile:
+- 🧗 Intento siempre superarme a mi mismo
+- ⚡ Me encanta conectar con diferentes personas :raised_hands:
 
 <br>
 
@@ -40,6 +39,7 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="HTML5" width="35px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
 <br>
 <br>
 <br>
