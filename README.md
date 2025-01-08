@@ -18,41 +18,47 @@
 
 ### Herramientas y Lenguajes de Programacion: 
 
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CLion-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  />
-<br>
-<br>
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RedHat-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RobloxStudio.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg"  />
-<img align="left" alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg"  />
+<table>
+        <tr>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="Blender"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg" alt="Atom"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CLion-Dark.svg" alt="CLion"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Dark.svg" alt="Cloudflare"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg" alt="CMake"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" alt="Discord"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" alt="Discord Bots"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="Eclipse"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" alt="Kali Linux"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="Linux"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" alt="Lua"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="Photoshop"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg" alt="PowerShell"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RedHat-Dark.svg" alt="RedHat"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RobloxStudio.svg" alt="Roblox Studio"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" alt="SQLite"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" alt="Unity"></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg" alt="Unreal Engine"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="Visual Studio"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" alt="WordPress"></td>
+            <td><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="Stack Overflow"></td>
+        </tr>
+    </table>
 <br>
 <br>
 <br>
