@@ -19,7 +19,7 @@
 ### Herramientas y Lenguajes de Programacion: 
 
 
-  <table style="border-collapse: collapse; margin: 20px auto; width: 90%;">
+   <table style="border-collapse: collapse; margin: 20px auto; width: 90%;" border="0">
         <tr>
             <td style="padding: 10px; text-align: center;"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="Blender" style="width: 50px;"></td>
             <td style="padding: 10px; text-align: center;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" style="width: 50px;"></td>
