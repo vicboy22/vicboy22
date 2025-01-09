@@ -58,6 +58,7 @@
             <td style="padding: 10px; text-align: center;"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" style="width: 50px;"></td>
             <td style="padding: 10px; text-align: center;"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" alt="WordPress" style="width: 50px;"></td>
             <td style="padding: 10px; text-align: center;"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="Stack Overflow" style="width: 50px;"></td>
+             <td style="padding: 10px; text-align: center;"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" style="width: 50px;"></td>
         </tr>
     </table>
 <br>
