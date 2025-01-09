@@ -5,7 +5,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-###Soy desarollador de aplicaciones multiplataforma
+###Informacion sobre mi
 - 🔭 Actualmente estoy interesado en el desarollo de videojuegos, aplicaciones y desarollo de IA :grin:
 - 🌱 Estoy aprendiendo LUA y Python.
 - 👯 Estoy buscando desarollar con otros colaboradores :wink:
